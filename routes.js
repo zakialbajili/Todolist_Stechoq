@@ -12,5 +12,5 @@ const routes= (app)=>{
         const [url, controller] = router
         app.use(`/api/${url}`, controller)
     })
-}
+} 
 module.exports = routes
