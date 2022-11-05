@@ -1,4 +1,3 @@
-# Tugas-Backend-Database-Week-2
 # Tutorial Penggunaan
   1. Clone repo ini
   2. Buat database baru di local
